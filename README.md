@@ -1,5 +1,12 @@
 # Customer Analytics Portfolio
 
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-Data%20Analysis-150458?logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-Machine%20Learning-F7931E?logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-Churn%20Prediction-006600)
+![lifetimes](https://img.shields.io/badge/lifetimes-CLTV-6F42C1)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 **BSc Artificial Intelligence — AI for Communication and Marketing**
 
 A portfolio of three applied customer analytics projects covering customer segmentation, churn prediction and customer lifetime value estimation.
